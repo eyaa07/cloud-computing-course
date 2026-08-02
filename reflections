@@ -1,1 +1,32 @@
+# Cloud Concepts Reflection
 
+When I use my phone every day, I do not really think about how the apps work or where the information is stored. I just open them whenever I want to watch videos, listen to something, or talk to someone. After learning about cloud computing, I realized that many of the apps I use every day depend on cloud technology. The three services I use often are Netflix, Messenger, and TikTok.
+
+* **Netflix** – I use Netflix to watch movies and shows during my free time. 
+The videos are stored online, so I can watch them using my phone, computer, or other devices. 
+I consider Netflix as **SaaS (Software as a Service)** because I use the application 
+through the internet without managing the servers or systems behind it. 
+It is also a **Public Cloud** because many people can use the same service.
+
+* **Messenger** – I use Messenger to communicate with my friends and family. 
+I can send messages, pictures, videos, and files through the internet. 
+I consider Messenger as **SaaS** because I use the application without 
+having to manage the computer systems that make it work. 
+It is also a **Public Cloud** because it is available to many users.
+
+* **TikTok** – I use TikTok to watch and share short videos. 
+The videos and other information are stored using cloud services, 
+which allows me to access them through the app. I consider TikTok as **SaaS** 
+because it is an application that I use through the internet. 
+It also uses a **Public Cloud** because many people can use the service.
+
+Git and GitHub are important when working with cloud projects. 
+Version control helps keep track of changes made to files and code. 
+If someone makes a mistake, the team can look at older versions and fix the problem. 
+GitHub also helps team members work together, share their changes, and keep the project organized. 
+This can help prevent people from accidentally losing important work.
+
+After learning about cloud computing, 
+I understand that I use cloud services almost every day without noticing it. 
+I also learned that Git and GitHub can make cloud projects easier to manage, 
+especially when many people are working on the same project.
