@@ -30,4 +30,10 @@ Google Cloud is a strong choice for Artificial Intelligence and Kubernetes. It p
 
 I would choose Google Cloud because I am interested in learning about AI, data, and modern cloud technologies. Google Cloud also provides useful services for Kubernetes and application development. I think it would be a good platform for learning and building future projects.
 
-
+| Service Category | AWS | Azure | GCP |
+|---|---|---|---|
+| Virtual Machine | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| Object Storage | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| Identity Management | AWS IAM | Microsoft Entra ID | Cloud Identity |
+| SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
