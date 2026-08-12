@@ -54,8 +54,4 @@ Organizations can use AWS for many different business purposes. Common examples 
 
 AWS can also be used by enterprises that need highly available applications, global infrastructure, data storage, and scalable computing resources.
 
-## Screenshot
 
-![AWS Official Documentation](screenshots/aws-homepage.png)
-
-*Figure 1. AWS official documentation homepage.*
